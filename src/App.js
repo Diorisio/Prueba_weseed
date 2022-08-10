@@ -61,7 +61,7 @@ function App() {
     :
     <p>Cargando</p>
   }
-    <h2>peliculas en la cual a actuado</h2>
+    <h2>peliculas en la cual ha actuado</h2>
     {actpeliculas?
       
     actpeliculas.map(pelicul=>
